@@ -1,2 +1,2 @@
 # error-logger-client
-Error-logger-api consumer built with dustjs
+https://github.com/dune44/error-logger-api consumer built with dustjs.  Meant to be a local insecure version for logging during development.

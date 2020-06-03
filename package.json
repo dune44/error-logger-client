@@ -1,0 +1,28 @@
+{
+  "name": "error-logger-client",
+  "version": "1.0.0",
+  "description": "Error-logger-api consumer built with dustjs",
+  "main": "bin/index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consolidate": "^0.15.1",
+    "dustjs-linkedin": "^2.7.5",
+    "express": "^4.17.1",
+    "superagent": "^5.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dune44/error-logger-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dune44/error-logger-client/issues"
+  },
+  "homepage": "https://github.com/dune44/error-logger-client#readme"
+}
